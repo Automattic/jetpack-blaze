@@ -6,8 +6,8 @@
 	"require": {},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-assets": "@dev",
-		"automattic/jetpack-changelogger": "@dev"
+		"automattic/jetpack-assets": "^1.17.28",
+		"automattic/jetpack-changelogger": "^3.3.0-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -35,15 +35,6 @@
 			"pnpm run watch"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
