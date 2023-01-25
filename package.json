@@ -24,7 +24,7 @@
 	"dependencies": {
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-components": "workspace:*",
-		"@automattic/jetpack-shared-extension-utils": "^0.8.2-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.8.2",
 		"@wordpress/block-editor": "10.5.0",
 		"@wordpress/components": "22.1.0",
 		"@wordpress/compose": "5.20.0",
