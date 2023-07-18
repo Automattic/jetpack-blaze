@@ -5,10 +5,10 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-assets": "^1.18.7",
-		"automattic/jetpack-connection": "^1.54.0",
+		"automattic/jetpack-connection": "^1.54.1-alpha",
 		"automattic/jetpack-plans": "^0.3.3",
 		"automattic/jetpack-redirect": "^1.7.25",
-		"automattic/jetpack-status": "^1.17.2",
+		"automattic/jetpack-status": "^1.18.0-alpha",
 		"automattic/jetpack-sync": "^1.51.0"
 	},
 	"require-dev": {
