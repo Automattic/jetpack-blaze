@@ -10,7 +10,7 @@
 		"automattic/jetpack-constants": "^2.0.0",
 		"automattic/jetpack-plans": "^0.4.1",
 		"automattic/jetpack-redirect": "^2.0.0",
-		"automattic/jetpack-status": "^2.1.0-alpha",
+		"automattic/jetpack-status": "^2.1.0",
 		"automattic/jetpack-sync": "^2.4.2"
 	},
 	"require-dev": {
