@@ -25,9 +25,9 @@
 		"extends @wordpress/browserslist-config"
 	],
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.8-alpha",
-		"@automattic/jetpack-components": "^1.4.14-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.4.13-alpha",
+		"@automattic/jetpack-analytics": "^1.0.8",
+		"@automattic/jetpack-components": "^1.4.14",
+		"@automattic/jetpack-shared-extension-utils": "^1.4.13",
 		"@wordpress/block-editor": "15.12.0",
 		"@wordpress/components": "32.1.0",
 		"@wordpress/compose": "7.39.0",
