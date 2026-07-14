@@ -5,6 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
+		"automattic/jetpack-admin-ui": "^0.9.8",
 		"automattic/jetpack-assets": "^4.4.4",
 		"automattic/jetpack-connection": "^8.7.8-alpha",
 		"automattic/jetpack-constants": "^3.0.12",
@@ -51,7 +52,7 @@
 			"link-template": "https://github.com/automattic/jetpack-blaze/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.27.x-dev"
+			"dev-trunk": "0.28.x-dev"
 		},
 		"textdomain": "jetpack-blaze",
 		"version-constants": {
