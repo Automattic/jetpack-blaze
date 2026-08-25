@@ -4,19 +4,19 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "^0.10.0",
-		"automattic/jetpack-assets": "^4.4.11",
-		"automattic/jetpack-connection": "^8.12.0",
-		"automattic/jetpack-constants": "^3.0.12",
-		"automattic/jetpack-plans": "^0.12.0",
-		"automattic/jetpack-redirect": "^3.0.15",
-		"automattic/jetpack-status": "^6.5.0",
-		"automattic/jetpack-sync": "^4.45.4"
+		"php": ">=7.4",
+		"automattic/jetpack-admin-ui": "^0.11.0-alpha",
+		"automattic/jetpack-assets": "^5.0.0-alpha",
+		"automattic/jetpack-connection": "^9.0.0-alpha",
+		"automattic/jetpack-constants": "^4.0.0-alpha",
+		"automattic/jetpack-plans": "^0.13.0-alpha",
+		"automattic/jetpack-redirect": "^4.0.0-alpha",
+		"automattic/jetpack-status": "^7.0.0-alpha",
+		"automattic/jetpack-sync": "^5.0.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.9"
+		"automattic/phpunit-select-config": "^1.0.10-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -52,7 +52,7 @@
 			"link-template": "https://github.com/automattic/jetpack-blaze/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.28.x-dev"
+			"dev-trunk": "0.29.x-dev"
 		},
 		"textdomain": "jetpack-blaze",
 		"version-constants": {
